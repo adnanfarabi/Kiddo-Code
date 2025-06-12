@@ -1,0 +1,19 @@
+body {
+    background-image: url('background1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin: 250px auto;
+    border-radius: 10px;
+    background-image: url(login\ bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    color: #86bde3;
+    align-items: center;
+}
+
